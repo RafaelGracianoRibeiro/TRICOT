@@ -27,8 +27,7 @@ O projeto está organizado da seguinte forma:
 -   HTML5
 -   CSS3
 
-## Como Executar
+## Como Acessar
+https://tricot.vercel.app/
 
-Por ser um projeto de front-end estático, não há necessidade de um servidor ou de instalação de dependências.
 
-Para visualizar a página, basta abrir o arquivo `index.html` em qualquer navegador web de sua preferência.
